@@ -1,0 +1,10 @@
+.DS_Store
+
+logs
+*.log
+
+
+.git
+.gitignore
+README.md
+LICENSE
