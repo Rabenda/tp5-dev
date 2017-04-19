@@ -1,9 +1,6 @@
-FROM clarencep/php7c
+FROM clarencep/php7c:7.1
 
 ENV APP_ROOT /var/www/tp5
-ENV TP_VERSION 5.0.7
-
-# COPY ./src $APP_ROOT
 
 WORKDIR $APP_ROOT
 
